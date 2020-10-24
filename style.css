@@ -180,7 +180,7 @@ p.text{
     border-radius: 10px;
 }
 
-.btns div a p {
+.btns a p {
     color: #fff;
     font-size: 15px;
     float: inherit ;
