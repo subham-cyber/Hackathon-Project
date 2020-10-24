@@ -194,6 +194,29 @@ p.text{
     z-index: 100;
     box-shadow: rgba(91, 132, 177, 0.3);
 }
+/* Responsive Screen */
+@media screen and (max-width: 1366px) {
+  h3 {
+    color:#3C8ADF;
+    padding: 10px 0px;
+    font-size: 30px;
+  }
+  p {
+    color: #5B84B1;
+    font-size: 20px;
+  }
+  .escape-img {
+    max-width: 600px;
+    padding: 20px;
+    margin: 2px;
+  }
+  #Home #Home-sub {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
+}
+
 
 /* Responsive columns 
 @media screen and (max-width: 600px) {
