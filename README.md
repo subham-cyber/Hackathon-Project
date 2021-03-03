@@ -2,7 +2,6 @@
 This is a Hackathon Project 
 
 ## VirtualEscape [Click Me](https://subham-cyber.github.io/Hackathon-Project/)
-<a href="https://subham-cyber.github.io/Hackathon-Project/" target=" ">Virtual Escape Site Link</a>
 
 
 #### A website for listening to music meditation and lay games all in one place.
